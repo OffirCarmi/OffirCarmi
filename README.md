@@ -1,5 +1,5 @@
-<h2 align="center">Hi 🙋‍♂️, I'm Offir</h2>
-<h3 align="center">A passionate Full-Stack developer with background as graphic designer</h3>
+<h2 align="center">Hi, I'm Offir</h2>
+<h3 align="center">A passionate Full-Stack developer with background as a graphic designer</h3>
 
 - 👨‍💻 All of my projects are available here on gitHub at [https://github.com/OffirCarmi](https://github.com/OffirCarmi)
 
